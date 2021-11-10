@@ -4,7 +4,7 @@ let date = new Date('dec 31 2021 23:59:59');
 let btn = document.querySelector('#btn1');
 
 btn.addEventListener('click', function(){
-	alert('Вжууууух!');
+	alert('Калининградцам привет! Особенно Мише:)');
 });
 
 function counts(){
