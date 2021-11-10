@@ -1,10 +1,10 @@
 
-let date = new Date('nov 8 2022 16:2:25');
+let date = new Date('dec 31 2021 23:59:59');
 
 let btn = document.querySelector('#btn1');
 
 btn.addEventListener('click', function(){
-	alert('Спасибо, что заказали у нас!');
+	alert('Вжууууух!');
 });
 
 function counts(){
